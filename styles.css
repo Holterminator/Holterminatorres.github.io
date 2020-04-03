@@ -23,6 +23,10 @@ body{
     border-radius: 15px 15px 0 0;
     position: relative;
 }
+.mainTitle {
+text-align: center;
+color: white;
+}
 .clear{
     width : 30px;
     height: 30px;
