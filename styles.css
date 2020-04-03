@@ -101,7 +101,7 @@ color: white;
     left:90px;
     top:12px;
     background-color: #FFF;
-    max-width:285px;
+    max-width:1000px;
 }
 .lineThrough{
     text-decoration: line-through;
@@ -141,6 +141,7 @@ color: white;
     border: none;
     font-size: 20px;
     padding-left:10px;
+    padding-right: 30px;
 }
 .add-to-do input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
     color: #4162f6;
